@@ -1,6 +1,6 @@
 # **Journal Application - Flutter**
 
-## Overview
+# Overview
 ___
 This Application is developed in order to help students understand the process by which programs can be made.
 This Application is going to be 1 of 3 made. The other two will also be creating a journal, but will be coded in different languages. 
