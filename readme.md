@@ -14,3 +14,4 @@ My aim for this project as a developer is to be able to learn how web applicatio
 - [Tutorials Point](https://www.tutorialspoint.com/flutter/flutter_creating_simple_application_in_android_studio.htm)
 - [iampawan repo (to understand how to save files)](https://github.com/iampawan/FlutterExampleApps/blob/master/main.dart)
 - [W3 schools (to understand how flutter functions)](https://www.w3schools.blog/which-one-is-better-kotlin-vs-flutter)
+- [Kindacode (for understanding comments)](https://www.kindacode.com/article/how-to-make-comments-in-flutter-dart/)
