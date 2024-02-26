@@ -7,9 +7,12 @@ This Application is going to be 1 of 3 made. The other two will also be creating
 
 # Requirements:
 __
-1.) The App will pull from the same repository as the other 3 applications\n
-2.) The App will be a mobile application\n
-3.) The App will be based on the same designs as the other 3 applications\n
+1.) The App will pull from the same repository as the other 3 applications
+
+2.) The App will be a mobile application
+
+3.) The App will be based on the same designs as the other 3 applications
+
 
 # Aim for Project
 ___
