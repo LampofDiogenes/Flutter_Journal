@@ -10,7 +10,6 @@ __
 1.) The App will pull from the same repository as the other 3 applications
 2.) The App will be a mobile application
 3.) The App will be based on the same designs as the other 3 applications
-4.) 
 
 # Aim for Project
 ___
