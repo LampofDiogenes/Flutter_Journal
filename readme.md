@@ -6,7 +6,7 @@ This Application is developed in order to help students understand the process b
 This Application is going to be 1 of 3 made. The other two will also be creating a journal, but will be coded in different languages. 
 
 # Requirements:
-__
+___
 
 1.) The App will pull from the same repository as the other 3 applications
 
